@@ -25,7 +25,7 @@ Data loader module
 **data augmentation: activate random mirroring along the specified axes during training (dtype=bool)**
 ::
     
-    --mirror [0]
+    --mirror 0
 
 **data augmentation: random multiplicative Gaussian noise with unit mean, unit variance (dtype=bool)**
 ::
